@@ -52,7 +52,7 @@ public class ConsoleInfo {
         System.out.println("6 - Exibir os funcionários nascidos no mês 10 e 12 (3.8)");
         System.out.println("7 - Exibir o funcionário mais velho (3.9)");
         System.out.println("8 - Exibir a lista de funcionários em ordem alfabética (3.10)");
-        System.out.println("9 - Exibir o a soma de todos os salários dos funcionários (3.11)");
+        System.out.println("9 - Exibir a soma de todos os salários dos funcionários (3.11)");
         System.out.println("10 - Exibir quantos salários mínimos ganha cada funcionário (3.12)");
         System.out.println("0 - Finalizar a execução");
     }
